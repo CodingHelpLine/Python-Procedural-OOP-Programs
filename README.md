@@ -24,5 +24,5 @@ such as sets, lists and dictionaries.
 * Decorators
 * Sets, Lists, Dictionaires. 
 * Exception handling
-* Databases (MySQL, Python, SQLite, MongoDB, Oracle)
+* Databases (MSSQL Server, MySQL, Python, SQLite, MongoDB, Oracle)
 * File IO (JSON, XML, Text, CSV, Excel, Google Sheets)
